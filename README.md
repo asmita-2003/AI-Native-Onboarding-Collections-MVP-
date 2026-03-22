@@ -1,5 +1,4 @@
-# AI-Native-Onboarding-Collections-MVP-
-# CredServ MVP
+# AI-Native-Onboarding-Collections-MVP-CredServ MVP
 
 ## Phase 1
 LLM-based KYC extraction with verification
